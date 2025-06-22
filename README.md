@@ -2,7 +2,7 @@
 
 A simple Python script that generates a secure, random password based on user-defined length. This utility helps in creating strong passwords by combining lowercase, uppercase, digits, and special characters.
 
-## 🚀 Features
+##  Features
 
 - Generates a password of any desired length
 - Includes:
@@ -17,11 +17,11 @@ A simple Python script that generates a secure, random password based on user-de
 
 This script uses Python’s built-in `random` module to select characters from a pool of secure characters. The generated password is returned as a string using `random.sample()`.
 
-## 📦 Requirements
+##  Requirements
 
 - Python 3.x
 
-## 💻 Usage
+##  Usage
 
 Clone the repository or copy the script and run it using:
 
