@@ -13,7 +13,7 @@ A simple Python script that generates a secure, random password based on user-de
 - Lightweight and terminal-based
 - Loops until user chooses to exit
 
-## 🛠 How It Works
+##  How It Works
 
 This script uses Python’s built-in `random` module to select characters from a pool of secure characters. The generated password is returned as a string using `random.sample()`.
 
